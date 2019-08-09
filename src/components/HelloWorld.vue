@@ -4,6 +4,7 @@
     <h2>Essential Links</h2>
     <h4> seconde update</h4>
     <h4>git amend</h4>
+    <h4>git stash</h4>
   </div>
 </template>
 
